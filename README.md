@@ -110,6 +110,17 @@
 
 5. CONCLUSIONES:
 
--
+-Podemos concluir mencionando que se comprendieron los conceptos de cantidades y unidades, a utilizar la notación científica (potencias de diez) para representar cantidades y resolución de ejercicios para manejar con más facilidad los valores, así como también la notación de ingeniería y prefijos métricos que nos permite trabajar de buena manera para representar cantidades grandes y pequeñas.
+
+-En el capítulo 2 se conocieron todos los componentes respecto al voltaje corriente y resistencia, así como también a analizar una fuente de voltaje y una fuente de corriente, reconocer y analizar diversos tipos y valores de resistencias, describir y realizar mediciones de circuitos básicos.
+
+6. BIBLIOGRAFIA:
+
+-FLOYD, T. L. (2007). PRINCIPIOS DE CIRCUITOS ELECTRICOS. MEXICO: PEARSON EDUCACION.
+
+7. RUBRICA:
+
+-![firma digital](https://user-images.githubusercontent.com/105897327/170218417-3e479269-083a-4d28-82fe-fc0731dc3ba6.png)
+
 
 
