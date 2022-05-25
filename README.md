@@ -120,7 +120,8 @@
 
 7. RUBRICA:
 
--![firma digital](https://user-images.githubusercontent.com/105897327/170218417-3e479269-083a-4d28-82fe-fc0731dc3ba6.png)
+-![image](https://user-images.githubusercontent.com/105897327/170218711-e4182641-35ef-44bc-a08e-b6f501d03b7b.png)
+
 
 
 
