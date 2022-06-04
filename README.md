@@ -1,56 +1,53 @@
 1. OBJETIVO GENERAL:
-- Estudiar, analizar y comprender los temas contenidos en los capítulos 1 y 2 del presente libro, realizando esquemas gráficos y desarrollando ejercicios de los temas impartidos, para llegar a un mejor aprendizaje y entendimiento para el desarrollo de problemas y tareas.
+- Estudiar y comprender los temas contenidos en los capítulos 3 y 4 del presente libro, realizando esquemas gráficos y desarrollando ejercicios de los temas impartidos, para llegar a un mejor aprendizaje y entendimiento para el desarrollo de problemas y tareas.
 
 1.2  OBJETIVOS ESPECIFICOS:
 
-- •	Conocer los conceptos de cantidades y unidades.
-- •	Utilizar notación científica (potencias de diez) para representar cantidades
-- •	Utilizar notación de ingeniería y prefijos métricos para representar cantidades grandes y pequeñas.
-- •	Analizar una fuente de voltaje y una fuente de corriente.
-- •	Reconocer y analizar diversos tipos y valores de resistencias.
-- •	Describir y realizar mediciones de circuitos básicos.
+- •	Explicar la ley de Ohm
+- •	Calcular la corriente, resistencia y voltaje en un circuito
+- •	Describir una aproximación básica a la localización de fallas
+- •	Definir los términos de energía y potencia, para poder calcular la potencia en un circuito.
+- •	Seleccionar adecuadamente resistores con base en consideraciones de potencia
+- •	Explicar la conversión de energía y la caída de voltaje
+- •	Analizar las fuentes de potencia y sus características
 
 2. MARCO TEORICO:
 
-- CANTIDADES Y UNIDADES:
+-LEY DE OHM
 
-- ![image](https://user-images.githubusercontent.com/105897327/170208643-156eefb7-daed-46e8-95b5-91397b442308.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982469-4cba7529-61f8-4136-87d6-7b259bb89043.png)
 
-- ![image](https://user-images.githubusercontent.com/105897327/170208701-64eb5f41-54d0-497e-b44a-e2b14f762f36.png)
+-ENERGIA Y POTENCIA
+
+-![image](https://user-images.githubusercontent.com/105897327/171982489-9f68ccdd-de89-4d8d-ae8b-36e1e9032525.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
-- ![image](https://user-images.githubusercontent.com/105897327/170209814-dde7396e-a3ef-48e2-85a2-012edcd27bc7.png)
+-CAPITULO 3
 
--![image](https://user-images.githubusercontent.com/105897327/170209865-de3c6864-44ad-4505-9bbf-cb031b791ca4.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982530-241d4967-1154-4d42-9fa6-d0d539409a1b.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982539-b876404e-28e5-49aa-8ffa-78c5de9aae29.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982556-f7c59c27-25c1-43c8-9cae-62e01b0f6aad.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982571-d23b327f-e788-45fc-bce8-0b9c00885aef.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982592-093ffdae-6076-465f-a7f4-2a2c967bc910.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982601-ed2ab1a0-63d6-4896-9fb7-17fdda5a082c.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982606-f36fc2f0-3f0b-4dc1-8564-6576ad756e8a.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982610-ef3bca22-b299-4106-8376-a83034c12217.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982616-c632e891-c054-4ce8-8394-17cb75d4ceb0.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982627-2cfcd46b-3c57-45e2-958e-a80b73c3ab54.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982635-686742b1-6d84-43b1-9719-582c4c4f6641.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982644-3482f1e9-973e-4ee7-b4cd-ee5cf39d114f.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982650-ff676325-99f8-4da3-9c0a-32834b495c9e.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982655-aed5fecf-dfd0-41f7-9ed7-a4d24f8945ab.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982677-d68f3bfb-3e17-4708-bb8d-d381fe85cdf9.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982684-212da553-2ca8-4e05-97fb-b4b7bd4d2873.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982686-be3a9e9c-3435-4fbc-91e7-14ef5ecb4fbc.png)
+-![image](https://user-images.githubusercontent.com/105897327/171982691-13538ef1-fb13-452e-a98a-4c7d8fccb051.png)
 
--![image](https://user-images.githubusercontent.com/105897327/170209947-29914d02-1bbc-4090-8ce4-c4268a527b6d.png)
 
--![image](https://user-images.githubusercontent.com/105897327/170210012-d1bed05d-5f87-4ea8-835b-02058518c71a.png)
 
--![image](https://user-images.githubusercontent.com/105897327/170210074-ec6cf575-8aec-4f74-a8f4-aafe8d6f24ce.png)
 
--![image](https://user-images.githubusercontent.com/105897327/170210139-dcc47620-e060-40a6-a90a-b68a9cd31b44.png)
-
--![image](https://user-images.githubusercontent.com/105897327/170210215-f4aab9b8-3c45-4b46-96a2-2be6ca64c0fa.png)
-
--![image](https://user-images.githubusercontent.com/105897327/170210271-036b8ebc-f3e6-4cc1-95ef-0d7e49fa0fe7.png)
-
--![image](https://user-images.githubusercontent.com/105897327/170210342-6f230791-2a50-4d69-ad29-04d3f2508c4e.png)
-
--![image](https://user-images.githubusercontent.com/105897327/170210431-0372be68-9b24-4f87-a082-da4f4a56a8f1.png)
-
--![image](https://user-images.githubusercontent.com/105897327/170210480-86b70dcb-92d3-4e1e-9c7b-f9b4a49f4d6e.png)
-
--![image](https://user-images.githubusercontent.com/105897327/170210536-52133c78-3469-47a0-8e25-c9d95a7947f1.png)
-
-![image](https://user-images.githubusercontent.com/105897327/170210590-42541005-c89c-4e11-b82a-9624a50d577f.png)
-
--![image](https://user-images.githubusercontent.com/105897327/170210645-65bd12de-4aa3-4ae0-99be-b3f483627cce.png)
-
--![image](https://user-images.githubusercontent.com/105897327/170210714-5ce459a9-c2af-4676-87cd-1b8600e1ee50.png)
-
-- CAPITULO 2:
+-CAPITULO 4
 
 -![image](https://user-images.githubusercontent.com/105897327/170211055-c5d10b61-424f-48b1-872b-2f94a7eb18bd.png)
 
