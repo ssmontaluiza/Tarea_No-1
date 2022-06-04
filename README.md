@@ -104,13 +104,16 @@
 
 4. VIDEO:
 
--
+-https://youtube.com/shorts/ntU5AkzJdIk?feature=share
+-https://youtu.be/pDcbwV6ITiQ
+-https://youtu.be/q50ZULuSvAg
+-https://youtube.com/shorts/p6Xw75yMYp0?feature=share
 
 5. CONCLUSIONES:
 
--Podemos concluir mencionando que se comprendieron los conceptos de cantidades y unidades, a utilizar la notación científica (potencias de diez) para representar cantidades y resolución de ejercicios para manejar con más facilidad los valores, así como también la notación de ingeniería y prefijos métricos que nos permite trabajar de buena manera para representar cantidades grandes y pequeñas.
+-Podemos concluir mencionando que se comprendió a utilizar la ley de Ohm en un circuito rápido, así como también el análisis de circuitos eléctricos, de igual manera se comprendió que la corriente, el voltaje y la resistencia están relacionados de una forma específica y predecible. También se introduce un método general para abordar la localización de fallas que consiste en analizar, planificar y medir (APM, por sus siglas en inglés).
 
--En el capítulo 2 se conocieron todos los componentes respecto al voltaje corriente y resistencia, así como también a analizar una fuente de voltaje y una fuente de corriente, reconocer y analizar diversos tipos y valores de resistencias, describir y realizar mediciones de circuitos básicos.
+-En el capítulo 4 se comprendieron conceptos importantes, así como también que la corriente transporta energía eléctrica a través de un circuito. A medida que los electrones libres pasan por la resistencia del circuito, ceden su energía cuando chocan con átomos presentes en el material resistivo. La energía eléctrica cedida por los electrones se convierte en energía calorífica. La razón de cambio a la cual se utiliza la energía eléctrica es la potencia que hay en el circuito.
 
 6. BIBLIOGRAFIA:
 
