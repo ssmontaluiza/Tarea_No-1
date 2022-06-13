@@ -3,7 +3,30 @@
 
 1.2  OBJETIVOS ESPECIFICOS:
 
-- 
+-•	Identificar un circuito resistivo en serie y paralelo
+
+•	Determinar la corriente, resistencia, potencia y aplicar la ley de ohm a través de un circuito en serie
+
+•	Determinar el efecto total de fuentes de voltaje conectadas en serie
+
+•	Aplicar la ley del voltaje de Kirchhoff
+
+•	Utilizar un circuito en serie y paralelo como divisor de voltaje
+
+•	Medir voltaje con respecto a tierra
+
+•	Localizar fallas en circuitos en serie
+
+•	Determinar el voltaje y resistencia a través de cada rama en paralelo
+
+•	Aplicar la ley de Ohm en un circuito en paralelo
+
+•	Determinar el efecto total de una fuente de corriente en paralelo
+
+•	Determinar la potencia en un circuito en paralelo
+
+•	Localizar fallas en circuitos en paralelo
+
 
 2. MARCO TEORIC
 
