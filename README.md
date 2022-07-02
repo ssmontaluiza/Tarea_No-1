@@ -36,10 +36,11 @@ Estudiar y comprender los temas contenidos en los capítulos 7 y 8 del presente 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
 2. Visualice y trace los siguientes circuitos en serie-paralelo:
-3. 
+
 (a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
 
 (b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
+
 ![image](https://user-images.githubusercontent.com/105897327/176980588-43f260a9-48e8-4f64-8ba4-215595ebaa00.png)
 
 4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
@@ -51,6 +52,7 @@ Estudiar y comprender los temas contenidos en los capítulos 7 y 8 del presente 
 6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
 
 ![image](https://user-images.githubusercontent.com/105897327/176980668-bca1a8c8-fc41-4a1e-bbde-37eeda5c2671.png)
+
 8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0 k Ω. ¿Cuál es el otro resistor?
 
 ![image](https://user-images.githubusercontent.com/105897327/176980692-a375a1ea-2e38-4eec-8390-95137ffbabb9.png)
