@@ -154,16 +154,16 @@
 
 4. VIDEO:
 
--https://youtu.be/5v1zhgpGf3E
+-https://youtu.be/DJU3i1ffeHw
 
--https://youtu.be/QxS6AqK3G3I
-
+-https://youtu.be/HaDSOFNo7VU
 
 5. CONCLUSIONES:
 
--En el capítulo 5, aprendimos acerca de circuitos en serie y cómo aplicar la ley de Ohm y la ley del voltaje de Kirchhoff. También se vio la forma en que se puede utilizar un circuito en serie como divisor de voltaje para obtener varios voltajes especificados con una sola fuente de voltaje. Asimismo, se examinaron los efectos de las aberturas y de los cortos en circuitos en serie.
+-En el capítulo 7 se estudió la introducción de importantes tipos de circuitos en serie-paralelo. Estos circuitos incluyen el divisor de voltaje con carga resistiva, la red en escalera, y el puente Wheatstone.El análisis de circuitos en serie-paralelo requiere el uso de la ley de Ohm, las leyes del voltaje y de la corriente de Kirchhoff, y los métodos para determinar resistencia total y potencia que fueron estudiados en los últimos dos capítulos. El tema de los divisores de voltaje sometidos a carga es importante porque este tipo de circuito se encuentra en muchas situaciones prácticas.
 
--En el capítulo 6, aprendimos cómo se utiliza la ley de Ohm en circuitos en paralelo y la ley de la corriente de Kirchhoff. También vimos varias aplicaciones, tales como el sistema de iluminación automotriz, la instalación eléctrica residencial, y el alambrado eléctrico de amperímetros analógicos. Aprendimos a determinar la resistencia total en paralelo y a localizar resistores abiertos. Cuando se conectan resistores en paralelo y se aplica voltaje a través del circuito en paralelo, cada resistor constituye una trayectoria distinta para la corriente. La resistencia total de un circuito en paralelo se reduce conforme más resistores se conectan en paralelo. El voltaje en cada uno de los resistores en paralelo es igual al voltaje aplicado a todo el circuito en paralelo
+-Los teoremas y las conversiones presentados en el capítulo 8 facilitan el análisis de ciertos tipos de circuitos. Debido a que todos los circuitos eléctricos son controlados por fuentes de voltaje o de corriente, comprendimos cómo funcionan estos elementos. El teorema de superposición nos ayuda abordar circuitos que tienen múltiples fuentes. Los teoremas de Thévenin y de Norton nos ayudan a la resolución de ejercicios ya que nos indican métodos apropiados para reducir un circuito a una forma equivalente simple con el propósito de facilitar su análisis. El teorema de transferencia de potencia máxima se utiliza en aplicaciones donde es importante que un circuito dado proporcione potencia máxima a una carga.
+
 
 6. BIBLIOGRAFIA:
 
