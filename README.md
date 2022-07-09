@@ -31,7 +31,7 @@ Estudiar y comprender los temas contenidos en los capítulos 9 y 10 del presente
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
-2. Evalue cada determinante:
+2. Evalue cada uno de los determinantes:
 
 ![image](https://user-images.githubusercontent.com/105897327/178106400-0c0d5bdb-9d92-481e-9632-7d3e11db9703.png)
 
