@@ -145,9 +145,11 @@ R: El voltaje proporcionado se duplica en cuanto la tasa de cambio del flujo mag
 
 4. VIDEO:
 
--https://youtu.be/DJU3i1ffeHw
+-https://youtu.be/MPjtO_09TEE
 
--https://youtu.be/HaDSOFNo7VU
+-https://youtu.be/zx9rrTYvPAk
+
+-https://youtu.be/KM2Pd6qYUlU
 
 -https://youtu.be/QxS6AqK3G3I
 
