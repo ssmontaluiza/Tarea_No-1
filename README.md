@@ -236,13 +236,10 @@ R: La Reactancia del Capacitor deberá ser de 0Ω, con esto logrará proporcion
 
 4. VIDEO:
 
--https://youtu.be/MPjtO_09TEE
+https://youtu.be/43AG1i9VODo
 
--https://youtu.be/zx9rrTYvPAk
+https://youtu.be/1kVI-9vwDFU
 
--https://youtu.be/KM2Pd6qYUlU
-
--https://youtu.be/QxS6AqK3G3I
 
 5. CONCLUSIONES:
 
