@@ -231,7 +231,7 @@ R: La Reactancia del Capacitor deberá ser de 0Ω, con esto logrará proporcion
 
 54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/105897327/181164326-c8e52037-2f26-4134-889b-ec5fb2e40270.png)
 
 
 4. VIDEO:
