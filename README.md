@@ -1,238 +1,169 @@
 1. OBJETIVO GENERAL:
 
-Estudiar y comprender los temas contenidos en los capítulos 11 y 12 del presente libro, realizando esquemas gráficos y desarrollando ejercicios de los temas impartidos, para llegar a un mejor aprendizaje y entendimiento para el desarrollo de problemas y tareas.
+Estudiar y comprender los temas contenidos en los capítulos 13 y 14 del presente libro, realizando esquemas gráficos y desarrollando ejercicios de los temas impartidos, para llegar a un mejor aprendizaje y entendimiento para el desarrollo de problemas y tareas.
 
 1.2. OBJETIVO ESPECIFICOS:
 
-•	Identificar una forma de onda sinusoidal y medir sus características
+•	Analizar El inductor básico y tipos de inductores
 
-•	Determinar los diversos valores de voltaje y corriente de una onda seno
+•	Determinar Inductores en serie y en paralelo
 
-•	Analizar matemáticamente una forma de onda sinusoidal
+•	Analizar Inductores en circuitos de CD y CA
 
-•	Aplicar las leyes de circuito básicas a circuitos de ca resistivos
+•	Estudiar Inductancia mutua, El transformador básico, Transformadores elevadores y reductores
 
-•	Determinar voltajes totales que tienen tanto componentes de ca como de cd
-
-•	Identificar las características de formas de onda no sinusoidales básicas
-
-•	Describir la construcción y las características básicas de un capacitor
-
-•	Estudiar los diversos tipos de capacitores
-
-•	Analizar capacitores en serie y paralelo
-
-•	Analizar circuitos de cd con capacitore conmutados
-
-•	Analizar circuitos de ca capacitivos
+•	Analizar Carga del devanado secundario y reflejada, Igualación de impedancia, Características de un transformador no ideal, Transformadores con tomas y devanados múltiples
 
 2. MARCO TEORIC
 
--CAPITULO 11  INTRODUCCION A  LA CORRIENTE Y VOLTAJE ALTERNOS
+-CAPITULO 13 INDUCTORES
 
-![image](https://user-images.githubusercontent.com/105897327/180901220-f964ac5d-845e-45d0-bb2e-411a959cc25c.png)
+![image](https://user-images.githubusercontent.com/105897327/185285192-51992681-fd4c-4218-9e52-51b8ac33a74e.png)
 
--CAPITULO 12 CAPACITORE
+-CAPITULO 14 TRANSFORMADORES
 
-![image](https://user-images.githubusercontent.com/105897327/180901322-05c13e3c-d391-4527-a889-9cf4e1b43487.png)
-
+![image](https://user-images.githubusercontent.com/105897327/185285262-c36b6ca2-296e-473b-a421-2369260abb53.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
-CAPTITULO 11:
+2. Convierta los siguientes valores en microhenries:
 
-2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
+![image](https://user-images.githubusercontent.com/105897327/185286032-ac1ccca0-6992-4893-9982-5053057f4bf9.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180901608-769bcf83-f983-4acb-8389-94900be9a321.png)
+4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?
 
-4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
+![image](https://user-images.githubusercontent.com/105897327/185286081-2db63a77-7a65-4faf-9b84-ba2d02dfd3d0.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180901651-0ba15de3-dd13-4432-abf9-d164b80d1ac9.png)
+6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10x10-5 m2 y tiene longitud de 0.05m? La permeabilidad del núcleo es de 1.2x10-6 H/m.
 
-6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
+![image](https://user-images.githubusercontent.com/105897327/185286126-088c2f5a-7982-4a3d-bc82-6accb3a77a47.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180901677-1b0ad8ab-f8a5-4858-9ddf-5bde2db20085.png)
+8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.
 
-8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores: 
+![image](https://user-images.githubusercontent.com/105897327/185286161-0c8cba6d-c70c-414b-b5eb-b35f14599f53.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180901720-30e3e537-dfb7-47c8-9767-35f6953016f8.png)
+10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4πx10-6 H/m). Determine la inductancia de la bobina que se formó.
 
-10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio.
+![image](https://user-images.githubusercontent.com/105897327/185286225-a5c38a79-bf37-454c-8818-e732948d8330.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180901944-e3557d4e-dc94-4bed-97cc-3019d529cb9d.png)
+12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?
 
-12. Cambie los siguientes valores angulares de radianes a grados:
+![image](https://user-images.githubusercontent.com/105897327/185286247-d83cefc8-5435-47df-9ccf-9c2d4dc0d574.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180901998-35871b29-04fb-4f64-96ae-68be8cb100c3.png)
+14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?
 
-14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
+![image](https://user-images.githubusercontent.com/105897327/185286285-2b4390cb-bd83-4da4-b1ae-a4cec26fb0c1.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180902050-303b5c39-41d3-4b46-8717-f6aeef01488b.png)
+18. Determine la inductancia total de cada circuito mostrado en la figura 13-47
 
-16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:
+![image](https://user-images.githubusercontent.com/105897327/185286400-0121c538-4b49-466b-b52c-0cc4de69208e.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180902069-593df6ec-3433-4641-8ee0-7ffdd33a7fe9.png)
+20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:
 
-18.	Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
+![image](https://user-images.githubusercontent.com/105897327/185286428-0e723572-eb87-4fbb-be40-4264632025b2.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180902146-83c15444-c6a0-4c2f-9df7-c23df8736860.png)
+22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
 
-20. Repita el problema 19 para el caso en que la onda seno A va 30º delante de la onda seno B.
+![image](https://user-images.githubusercontent.com/105897327/185286498-6b6a551d-f92f-47ca-91e0-23ee64b8b1b3.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180902167-95632c80-63be-42b6-8e63-fbf0b1ce2bd5.png)
+24. Repita el problema 22 para los siguientes instantes:
 
-22.	Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.
+![image](https://user-images.githubusercontent.com/105897327/185286565-91390e29-f5c4-4c59-95ba-b0ea8916360b.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180902239-fe1e840c-c381-44dc-a264-b0b9e8bf0e16.png)
+26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
 
-24. Determine la frecuencia para cada velocidad angular.
+Dado que la polaridad del voltaje inducido se opone al cambio de corriente, entonces la polaridad será negativa
 
-![image](https://user-images.githubusercontent.com/105897327/180902280-6d01251c-4579-47ad-acbe-9922cd43f2e3.png)
+![image](https://user-images.githubusercontent.com/105897327/185286757-4ef7ad2c-b86b-45ff-ad93-1f4eccf66cfa.png)
 
-26.	Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
+28. (a) ¿Cuál es la corriente en el inductor 1?0 ms después de que se cierra el interruptor en la figura 13-50?
 
-![image](https://user-images.githubusercontent.com/105897327/180902318-7d45958a-5916-4c97-8367-75f37464ed8b.png)
+![image](https://user-images.githubusercontent.com/105897327/185286818-b387e65b-df39-4bc7-8f4d-1cc9e153a331.png)
 
-28.Determine el voltaje rms entre los extremos de R3 en la figura 11-82
+30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.
 
+![image](https://user-images.githubusercontent.com/105897327/185286878-11c545d8-f630-4135-bc48-f14e069c82e4.png)
 
-30.	¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?
+32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
 
-![image](https://user-images.githubusercontent.com/105897327/180902406-00c4bb76-6bfa-40f0-b12e-b5a2c04ef204.png)
+![image](https://user-images.githubusercontent.com/105897327/185287038-f7b596e1-3439-4371-8afe-f02c17f26486.png)
 
-32.	La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.
+34. En la figura 13-51, determine la potencia reactiva.
 
-![image](https://user-images.githubusercontent.com/105897327/180902441-f1e0057d-1fb1-42aa-a6a6-80749962d1ea.png)
+![image](https://user-images.githubusercontent.com/105897327/185287138-2ae70c4a-fd7c-49da-8053-4aaee1be1135.png)
 
-38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?
+CAPITULO 14
 
-![image](https://user-images.githubusercontent.com/105897327/180902492-6c1a48d8-67e3-486e-bcb6-e683b6137c43.png)
+2. Determine el coeficiente de acoplamiento cuando:
 
-40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
+![image](https://user-images.githubusercontent.com/105897327/185287215-81fbf93d-9c47-4b9f-aae0-f74ea7ea04eb.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180902524-677305ad-8ab1-480e-95d7-127897f3dfb9.png)
+4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
 
-42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?
+![image](https://user-images.githubusercontent.com/105897327/185287254-1b8f9d94-816d-4144-b788-873b7fa47e94.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180902553-cf4d815e-73d7-473a-9beb-e15d5df164a9.png)
+6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
 
-44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrado en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.
+![image](https://user-images.githubusercontent.com/105897327/185287281-2e6852e7-1a1b-4041-9065-f05550dd2270.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180902613-2ea8477a-8bdf-45c1-abd4-0bacd2b58648.png)
+8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
 
-CAPITULO 12:
+![image](https://user-images.githubusercontent.com/105897327/185287356-8b08f2ff-dfd5-42e7-862d-0fc32e3e571c.png)
 
-2. Transforme los siguientes valores de microfarads a picofarads:
+10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?
 
-![image](https://user-images.githubusercontent.com/105897327/180902681-7d61c44d-237f-4455-be50-59adff968f16.png)
+![image](https://user-images.githubusercontent.com/105897327/185287400-bafef556-41be-4d2c-8404-c40c449a7918.png)
 
-4. Transforme los siguientes valores de farads a microfarads.
+12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
 
-![image](https://user-images.githubusercontent.com/105897327/180902719-6670b898-c3c0-4708-873d-b452a2b5d8fc.png)
+![image](https://user-images.githubusercontent.com/105897327/185287451-bf66050b-191e-4137-823e-da7295229963.png)
 
-6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
+14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
 
-![image](https://user-images.githubusercontent.com/105897327/180902745-188ac62b-fd14-4132-8641-6ba7f6993eec.png)
+![image](https://user-images.githubusercontent.com/105897327/185287486-e85f77cf-51ba-4e86-825c-34602acd20a8.png)
 
-8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils. ¿Cuál es la capacitancia?
+16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
 
-![image](https://user-images.githubusercontent.com/105897327/180902767-2f94881f-40c1-4ceb-848e-ed27422cf4ab.png)
+![image](https://user-images.githubusercontent.com/105897327/185287543-022c36e8-f8cd-4304-89d3-a2fd269cc9cc.png)
 
-10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (Er = 2.5) de 8 105 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?
+18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Æ.
 
-![image](https://user-images.githubusercontent.com/105897327/180902826-0991a7db-8d98-4929-a6ff-163075ebf8dc.png)
+![image](https://user-images.githubusercontent.com/105897327/185287579-eae6d5b7-06fe-44f9-8f7b-fc260b382a21.png)
 
-12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?
+20. Encuentre la relación de vueltas apropiadas en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Ω. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.
 
-![image](https://user-images.githubusercontent.com/105897327/180902856-c4f7b2f6-364a-4c35-b35c-2ffcf2237930.png)
+![image](https://user-images.githubusercontent.com/105897327/185288094-3fb7da1f-609f-41fa-9328-f9ef36333679.png)
 
-14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?
+22. ¿Cuál es la eficiencia del transformador en el problema 21?
 
-Resp: El área de la placa aumenta aumentando el número de capas de placa y 
-materiales dieléctricos.
+![image](https://user-images.githubusercontent.com/105897327/185288194-479fd89d-35a9-4c6d-8187-f9ef70f461c2.png)
 
-16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66.
+24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V.
 
-![image](https://user-images.githubusercontent.com/105897327/180902913-b2296ba6-538d-437a-a6aa-1219aee3a026.png)
+![image](https://user-images.githubusercontent.com/105897327/185288225-cd65ce21-afc6-4666-9cd4-0ed40528259a.png)
 
-18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67
+26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.
+a) ¿Cuál es la relación de vueltas si los 120v son de voltaje secundario?
 
-![image](https://user-images.githubusercontent.com/105897327/180902937-c875c170-d7e9-4948-9b7d-2f8860e8eb66.png)
+![image](https://user-images.githubusercontent.com/105897327/185288274-db5cf1b9-47d9-4bca-b0b8-8f4fef96458d.png)
 
-20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
+![image](https://user-images.githubusercontent.com/105897327/185288329-602fcb9a-21a6-4927-89f9-9f6c30690d7b.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180902972-4cd4f75b-d573-454a-b519-caab7b0a1a4c.png)
+28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario
 
-22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor.
+![image](https://user-images.githubusercontent.com/105897327/185288419-639eb5a1-70fe-442a-8025-865dd595abe5.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180903004-e7625444-f389-4de3-a6cb-ac45adbd43dc.png)
+30.En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se debe conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
 
-24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje entre las terminales de cada capacitor.
+![image](https://user-images.githubusercontent.com/105897327/185288608-316dc858-c058-41f5-808f-d29d838eeedd.png)
 
-![image](https://user-images.githubusercontent.com/105897327/180903035-de67aeef-c5e4-4941-91a3-3f772adb81b9.png)
+32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema? 
 
-26. ¿Cuál es la carga en cada capacitor de la figura 12-71?
+R: El devanado primario esta abierto, por lo tanto, el siguiente paso es reemplazar el transformador.
 
-![image](https://user-images.githubusercontent.com/105897327/180903075-2b0127f3-8127-4428-bdaf-bcbf10c50826.png)
+34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser, aunque no es de cero. ¿Cuál es la falla más probable?
 
-28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
-
-![image](https://user-images.githubusercontent.com/105897327/180903101-add8c1dd-3e04-4b14-877b-3d081487e7ce.png)
-
-30. Determine la constante de tiempo para cada una de las combinaciones en serie:
-
-![image](https://user-images.githubusercontent.com/105897327/180903133-fa75d30a-2093-4f6d-9215-77007f975a99.png)
-
-32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:
-
-![image](https://user-images.githubusercontent.com/105897327/180903162-0dc4aa71-a4b3-44d3-acdf-0df662559bb0.png)
-
-34. Repita el problema 32 con los siguientes intervalos de tiempo:
-
-![image](https://user-images.githubusercontent.com/105897327/180903187-a36c1685-f428-4eb5-a5cd-2205f6dd279e.png)
-
-36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor.
-
-![image](https://user-images.githubusercontent.com/105897327/180903246-fd469a0c-bfe1-4e42-b9f4-b4033cb58d70.png)
-
-38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
-
-![image](https://user-images.githubusercontent.com/105897327/180903271-356a764a-1b2b-4415-86af-1ad81881f604.png)
-
-40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t = 10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
-
-![image](https://user-images.githubusercontent.com/105897327/180903320-3f7fc41a-9dd8-4957-a920-09044252f4bd.png)
-
-42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
-
-![image](https://user-images.githubusercontent.com/105897327/180903359-9d742ded-7f2c-4fc7-9341-5e215264b6b0.png)
-
-![image](https://user-images.githubusercontent.com/105897327/180903447-5b312cc7-2c68-4aaf-b39e-32943b4f7acf.png)
-
-44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Ω? ¿Una XC de 1 kΩ?
-
-
-46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 ꭎF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
-
-
-48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81.
-
-![image](https://user-images.githubusercontent.com/105897327/180903636-9ea86572-23bd-4561-99dd-11e22c3acb37.png)
-
-![image](https://user-images.githubusercontent.com/105897327/180903676-ef1402a7-7047-490f-b978-7a9391fa9f68.png)
-
- 50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
-
-![image](https://user-images.githubusercontent.com/105897327/180903730-01bebab8-49fc-477b-b455-ac8e97ee2372.png)
-
-52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
-
-R: La Reactancia del Capacitor deberá ser de 0Ω, con esto logrará proporcionar un corto a tierra para ca
-
-54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
-
-![image](https://user-images.githubusercontent.com/105897327/181164326-c8e52037-2f26-4134-889b-ec5fb2e40270.png)
-
+R: Alguno de los devanados segundarios podrían estar en cortocircuito, o el voltaje primario inferior al esperado.
 
 4. VIDEO:
 
@@ -243,14 +174,9 @@ https://youtu.be/1kVI-9vwDFU
 
 5. CONCLUSIONES:
 
-•	En el capítulo 11 se aprendió el análisis de circuitos de ca en el cual se estudiaron las señales eléctricas que varían con el tiempo, en particular la onda seno. Una señal eléctrica es un voltaje o una corriente que cambian de manera consistente con el tiempo. En otras palabras, el voltaje o la corriente fluctúan de acuerdo con cierto patrón llamado forma de onda. Un voltaje alterno es uno que cambia de polaridad con cierta rapidez.
+-En el capítulo 13 aprendimos sobre un tercer tipo de componente pasivo básico como es el inductor y sus características. Se analizo la construcción básica y las propiedades eléctricas de los inductores, así como los efectos de conectarlos en serie y en paralelo. Cómo funciona un inductor en circuitos de cd y de ca es una parte importante de esta cobertura y forma la base para estudiar circuitos reactivos en función tanto de respuesta de frecuencia como de respuesta de tiempo. También aprendimos la manera de revisar un inductor defectuoso. El inductor, que es básicamente una bobina de alambre, se basa en el principio de inducción electromagnética. 
 
-•	La forma de onda sinusoidal (onda seno) es el tipo más común y fundamental porque todos los demás tipos de formas de onda repetitivas pueden ser descompuestos en ondas seno compuestas. La onda seno es un tipo periódico de forma de onda que se repite a intervalos fijos. Se pone un énfasis especial en la forma de onda sinusoidal (onda seno) debido a su importancia fundamental en el análisis de circuitos de ca.
-
-•	En EL capítulo 12, aprendimos acerca del capacitor y sus características. Se analizo la construcción física, las propiedades eléctricas, y los efectos de conectar capacitores en serie y en paralelo. Cómo funciona un capacitor en circuitos de ca y de cd es una parte importante de esta sección, y constituye la base para el estudio de circuitos reactivos en función tanto de respuesta a la frecuencia como de respuesta al tiempo. 
-
-•	El capacitor es un dispositivo eléctrico que puede guardar carga eléctrica, con lo cual crea un campo eléctrico que, a su vez, guarda energía. La medida de la capacidad de almacenamiento de energía de un capacitor es su capacitancia. Cuando se aplica una señal sinusoidal a un capacitor, éste reacciona de cierta manera y produce oposición a la corriente, la cual depende de la frecuencia y la señal aplicada. Esta oposición a la corriente se llama reactancia capacitiva.
-
+-En el capítulo 14, aprendimos sobre la inductancia mutua, que es la base para la operación de transformadores. Se utilizan transformadores en todo tipo de aplicaciones tales como fuentes de potencia, distribución de potencia eléctrica, y acoplamiento de señales en sistemas de comunicaciones. La operación del transformador se basa en el principio de inductancia mutua, la cual ocurre si dos o más bobinas están muy cercanas una de otra. En realidad, un transformador simple se compone de dos bobinas que están acopladas de manera electromagnética por su inductancia mutua.
 
 6. BIBLIOGRAFIA:
 
