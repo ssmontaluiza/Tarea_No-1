@@ -52,23 +52,27 @@ Estudiar y comprender los temas contenidos en los capítulos 13 y 14 del present
 
 14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?
 
-![image](https://user-images.githubusercontent.com/105897327/185286285-2b4390cb-bd83-4da4-b1ae-a4cec26fb0c1.png)
+![image](https://user-images.githubusercontent.com/105897327/185289177-05c9d2f5-947f-4de8-ab59-c64a383ff461.png)
+
+16.-Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
+
+![image](https://user-images.githubusercontent.com/105897327/185289222-ebcb41cf-8099-4f5d-88bb-1c9ac565e636.png)
 
 18. Determine la inductancia total de cada circuito mostrado en la figura 13-47
 
-![image](https://user-images.githubusercontent.com/105897327/185286400-0121c538-4b49-466b-b52c-0cc4de69208e.png)
+![image](https://user-images.githubusercontent.com/105897327/185289299-fb50f9d8-1825-4d84-8715-000625dc5130.png)
 
 20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:
 
-![image](https://user-images.githubusercontent.com/105897327/185286428-0e723572-eb87-4fbb-be40-4264632025b2.png)
+![image](https://user-images.githubusercontent.com/105897327/185289372-4174205a-b8ed-4019-8db7-64a1f89b9e17.png)
 
 22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
 
-![image](https://user-images.githubusercontent.com/105897327/185286498-6b6a551d-f92f-47ca-91e0-23ee64b8b1b3.png)
+![image](https://user-images.githubusercontent.com/105897327/185289459-ef626e2c-da51-4c76-ac90-e7b131d98aba.png)
 
 24. Repita el problema 22 para los siguientes instantes:
 
-![image](https://user-images.githubusercontent.com/105897327/185286565-91390e29-f5c4-4c59-95ba-b0ea8916360b.png)
+![image](https://user-images.githubusercontent.com/105897327/185289544-33b8ec24-6988-4118-82d9-c3d0e2099209.png)
 
 26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
 
