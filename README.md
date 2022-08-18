@@ -171,10 +171,9 @@ R: Alguno de los devanados segundarios podrían estar en cortocircuito, o el vol
 
 4. VIDEO:
 
-https://youtu.be/43AG1i9VODo
+https://youtu.be/8j9wQL2lTDA
 
-https://youtu.be/1kVI-9vwDFU
-
+https://youtu.be/q50R00NZ8sc
 
 5. CONCLUSIONES:
 
