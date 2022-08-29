@@ -63,13 +63,17 @@ Estudiar y comprender los temas contenidos en los capítulos 15 y 16 del present
 16. Multiplique los siguientes números:
 
 ![image](https://user-images.githubusercontent.com/105897327/187105549-4dc112bc-9a18-4f5c-b23b-719f92a72919.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187105570-e86024a3-0a18-4aa3-a9b2-78b695688388.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187105651-11dab289-c038-4c5e-a78a-0df8ac26a2e3.png)
 
 18. Realice las siguientes operaciones:
 
 ![image](https://user-images.githubusercontent.com/105897327/187105746-a6d069bb-3d9a-42e0-9f09-23ecb5ca2673.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187105825-fd9c13f7-e457-485b-a314-5ec24ca6ea9d.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187105867-7c589ffe-61c2-41a4-9330-b42a825e52e9.png)
 
 20. ¿Cuál es la forma de onda de la corriente en el circuito del problema 19?
@@ -79,7 +83,9 @@ Estudiar y comprender los temas contenidos en los capítulos 15 y 16 del present
 22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85. 
 
 ![image](https://user-images.githubusercontent.com/105897327/187106003-e0157a30-6fe3-4d43-aa49-0d448d62d457.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187106066-a48a053d-73ce-491f-a63a-c8a783f10375.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187106109-80bd4fe6-3738-4d8e-8d8d-77fc5d89aee0.png)
 
 24. Repita el problema 23 con C  0.0047 mF.
@@ -93,7 +99,9 @@ Estudiar y comprender los temas contenidos en los capítulos 15 y 16 del present
 28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85.
 
 ![image](https://user-images.githubusercontent.com/105897327/187106501-87b977be-39cf-40d2-bc40-6ff934d2e124.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187106517-9e35bb83-751c-4401-b4cf-92ac55149de2.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187106867-e59fcce3-9ae8-420a-85bf-20ae10e3292d.png)
 
 30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase.
@@ -107,7 +115,9 @@ Estudiar y comprender los temas contenidos en los capítulos 15 y 16 del present
 34. Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de entrada y el voltaje de salida para cada una de las siguientes frecuencias:
 
 ![image](https://user-images.githubusercontent.com/105897327/187107735-9b49cb5b-dea8-4aa0-9212-2850584c92c7.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187107762-b0cbe163-5c4b-4a3b-a039-26dbcff97df8.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187107800-77110bbe-0890-4fe9-861e-73a3fcb3984e.png)
 
 36. Repita el problema 34 para el circuito de adelanto de la figura 15-92.
@@ -145,20 +155,27 @@ Estudiar y comprender los temas contenidos en los capítulos 15 y 16 del present
 52. Para el circuito de la figura 15-101, determine lo siguiente:
 
 ![image](https://user-images.githubusercontent.com/105897327/187110867-2088d01a-d7b6-479c-895b-29f08b68530d.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187110894-623b190b-2fee-47f4-b0af-f5b88efed752.png)
 
 54. Determine el voltaje y su ángulo de fase en cada punto rotulado en la figura 15-103.
 
 ![image](https://user-images.githubusercontent.com/105897327/187111089-1507f000-ab78-49e0-8b2e-780900bd68d1.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187111111-1d6f1609-6fef-47f3-9961-90e61f2e0ee9.png)
 
 56. Trace el diagrama fasorial de voltaje y corriente para la figura 15-103.
 
 ![image](https://user-images.githubusercontent.com/105897327/187111737-fdd50bd6-2a93-4169-a3a5-8a867f3ffc33.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187111836-2e8bc206-89ad-4cbf-b293-fd252ecf7be7.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187111863-414a395e-33cb-4063-be98-a24a0b0dd842.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187111904-5f8d579f-c766-45b6-9ee7-e6daef3837f1.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187111951-cb26346d-728e-45f0-a805-7e0a39dfd058.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187112007-026a9657-f2ed-4a64-ae06-2d4fe0fa5221.png)
 
 58. En la figura 15-88, ¿cuáles son la potencia real y la potencia reactiva?
@@ -247,12 +264,15 @@ RESPUESTA: Cuando se aplica un voltaje sinusoidal de 15 khz a un circuito RL en 
 30. Para el circuito de la figura 16-69, determine lo siguiente:
 
 ![image](https://user-images.githubusercontent.com/105897327/187115589-d8ef7c93-7bab-4cad-bb8a-09763071ee8b.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187115737-934ea19f-169c-45cf-893c-83afba442a26.png)
 
 32. Trace el diagrama fasorial de los voltajes y las corrientes que aparecen en la figura 16-70.
 
 ![image](https://user-images.githubusercontent.com/105897327/187115946-661d1c6a-af8a-4010-90a0-a3981bc5a852.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187116007-5898688a-ea61-472d-8c26-73a63b29aa20.png)
+
 ![image](https://user-images.githubusercontent.com/105897327/187116066-f96bd9ca-a995-451b-8177-afe3903addf4.png)
 
 34. Determine el desplazamiento de fase y la atenuación desde la entrada hasta la salida para la red en configuración de escalera de la figura 16-72.
