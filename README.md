@@ -301,9 +301,10 @@ RESPUESTA: Cuando se aplica un voltaje sinusoidal de 15 khz a un circuito RL en 
 
 4. VIDEO:
 
-https://youtu.be/8j9wQL2lTDA
+https://youtu.be/7PU78w80xgk
 
-https://youtu.be/q50R00NZ8sc
+https://youtu.be/VKD-VLEqdTg
+
 
 5. CONCLUSIONES:
 
