@@ -173,7 +173,7 @@ PARTE CAPITULO 18:
 
 https://youtu.be/XvTOEfazVcY
 
-https://youtu.be/VKD-VLEqdTg
+https://youtu.be/fBQc3LeqPi0
 
 
 5. CONCLUSIONES:
